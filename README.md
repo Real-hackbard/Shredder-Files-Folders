@@ -108,6 +108,8 @@ unhides it.
 Request folder permissions if they are not already present.
 Files with specific attributes in folders that require permissions may be rejected for deletion. To prevent this, specific rights can be granted to the folder beforehand to allow shredding.
 
+To grant these rights, the string "Jeder" in the next code section must be renamed to the respective system language, e.g., the term "Anyone" for English.
+
 
 ```pascal
 if CheckBox3.Checked = true then
