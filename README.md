@@ -110,6 +110,7 @@ Files with specific attributes in folders that require permissions may be reject
 
 To grant these rights, the string "Jeder" in the next code section must be renamed to the respective system language, e.g., the term "Anyone" for English.
 
+</br>
 
 ```pascal
 if CheckBox3.Checked = true then
