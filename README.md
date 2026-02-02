@@ -102,7 +102,9 @@ hides a file, and
 
 unhides it.
 
-### Folder Access Rights
+</br>
+
+# Folder Access Rights
 Request folder permissions if they are not already present.
 
 ```pascal
