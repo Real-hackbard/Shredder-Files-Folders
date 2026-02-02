@@ -106,7 +106,7 @@ unhides it.
 
 # Folder Access Rights
 Request folder permissions if they are not already present.
-Files with specific attributes in folders that require permissions may be rejected for deletion.
+Files with specific attributes in folders that require permissions may be rejected for deletion. To prevent this, specific rights can be granted to the folder beforehand to allow shredding.
 
 
 ```pascal
