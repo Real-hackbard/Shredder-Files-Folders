@@ -114,8 +114,6 @@ To grant these rights, the string "Jeder" in the next code section must be renam
 ```pascal
 if CheckBox3.Checked = true then
   begin
-    // Rename this to your language using the system language 'jeder'.
-    // in english language is 'anyone' the access rights.
     AddAccessRights(PWideChar(Dir), 'Jeder', $FFFFFFFF);
   end;
 ```
