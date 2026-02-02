@@ -106,6 +106,19 @@ unhides it.
 
 # Folder Access Rights
 Request folder permissions if they are not already present.
+Files with specific attributes in folders that require permissions may be rejected for deletion.
+
+
+```pascal
+if CheckBox3.Checked = true then
+  begin
+    // Rename this to your language using the system language 'jeder'.
+    // in english language is 'anyone' the access rights.
+    AddAccessRights(PWideChar(Dir), 'Jeder', $FFFFFFFF);
+  end;
+```
+
+</br>
 
 ```pascal
 function AddAccessRights(lpszFileName : PChar; lpszAccountName : PChar;
