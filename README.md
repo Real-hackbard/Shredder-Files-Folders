@@ -24,7 +24,7 @@ A file shredder is a software tool that securely deletes files and folders by ov
 
 </br>
 
-![Shredder Files Folders](https://github.com/user-attachments/assets/4b21d4f9-9d69-4aee-992f-9e7b18583be7)
+![Shredder Files](https://github.com/user-attachments/assets/12aa8fba-bc0e-41b2-aa3c-44f57cff336a)
 
 </br>
 
