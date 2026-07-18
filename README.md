@@ -12,7 +12,7 @@
 
 A file shredder is a software tool that securely deletes files and folders by overwriting their data multiple times, making them unrecoverable by standard file recovery tools. This process protects sensitive information, such as financial or personal documents, by ensuring that deleted content is permanently erased from the hard drive rather than just removed from the file table. Many file shredders allow users to select specific files, folders, or even entire hard drives for deletion, often with features like drag-and-drop functionality and the ability to schedule shredding tasks. 
 
-# Features:
+# :wrench: Features:
 * Shredder File
 * Shredder entire Folder, with all subfolders
 * Batch Shredder
