@@ -8,7 +8,8 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: |
-| 1.0.1   | :white_check_mark: Add Menu function, Add Access Folder Richts, Add File Details Information |
+| 1.1.x   | :white_check_mark: Add Menu function, Add Access Folder Richts, Add File Details Information |
+| 1.2.x   | :white_check_mark: Show Batch process on ListBox; Random overwriting process; Add some functions|
 
 ## Reporting a Vulnerability
 
