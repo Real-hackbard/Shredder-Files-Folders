@@ -38,7 +38,7 @@ When deleting a file, the pointer is removed without any changes to the blocks. 
 This function identifies all the bits of a file and replaces each one with binary data. This is significantly more thorough than a simple process, but consequently takes more time for the hard drive.
 
 ### Random Overwriting:
-
+This function uses random number generators (often cryptographic random numbers) to fill the exact block on the hard drive with an insignificant sequence of zeros and ones.
 
 </br>
 
