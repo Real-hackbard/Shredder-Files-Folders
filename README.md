@@ -40,7 +40,7 @@ In this case, the optimal buffer size is ```4096 kb```.
 ### [Bits Overwriting](https://en.wikipedia.org/wiki/Bit)
 This function identifies all the bits of a file and replaces each one with binary data. This is significantly more thorough than a simple process, but consequently takes more time for the hard drive.
 
-### Random Overwriting:
+### [Random Overwriting](https://blancco.com/resources/blog-dod-5220-22-m-wiping-standard-method/)
 This function uses random number generators (often cryptographic random numbers) to fill the exact block on the hard drive with an insignificant sequence of zeros and ones. This takes place block by block; the program collects the blocks individually and overwrites them. The buffer size for this operation can be set separately.
 
 </br>
