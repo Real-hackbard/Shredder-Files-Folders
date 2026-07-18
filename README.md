@@ -28,6 +28,7 @@ A file shredder is a software tool that securely deletes files and folders by ov
 
 
 </br>
+</br>
 
 # :wrench: Shredder Modes
 ### Block Overwriting:
