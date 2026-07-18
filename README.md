@@ -69,12 +69,12 @@ So-called erasers are designed to "securely delete" files, preventing deleted da
 
 </br>
 
-### Directory Seperator:
+# Directory Seperator:
 In computing, a directory structure is the way an operating system arranges files that are accessible to the user. Files are typically displayed in a [hierarchical tree structure](https://en.wikipedia.org/wiki/Tree_structure).
 
 A filename is a string used to uniquely identify a file stored on this structure. Before the advent of 32-bit operating systems, file names were typically limited to short names (6 to 14 characters in size). Modern operating systems now typically allow much longer filenames (more than 250 characters per pathname element).
 
-### File Attributes:
+# File Attributes:
 File attributes are a type of [metadata](https://en.wikipedia.org/wiki/Metadata) that describe and may modify how files and/or [directories](https://en.wikipedia.org/wiki/Directory_(computing)) in a [filesystem](https://en.wikipedia.org/wiki/File_system) behave. Typical file attributes may, for example, indicate or specify whether a file is visible, modifiable, compressed, or encrypted. The availability of most file attributes depends on support by the underlying filesystem (such as FAT, NTFS, ext4) where attribute data must be stored along with other control structures. Each attribute can have one of two states: set and cleared. Attributes are considered distinct from other metadata, such as dates and times, [filename extensions](https://en.wikipedia.org/wiki/Filename_extension) or file system permissions. In addition to files, folders, volumes and other file system objects may have attributes.
 
 
