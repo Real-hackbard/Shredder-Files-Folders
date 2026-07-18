@@ -29,8 +29,11 @@ A file shredder is a software tool that securely deletes files and folders by ov
 </br>
 
 # :wrench: Shredder Modes
-### * Block Overwriting:
+### Block Overwriting:
 When deleting a file, the pointer is removed without any changes to the blocks. But the list of blocks are marked free to be used whenever data is written. Considering no overwritten data. In this case, the block sectors are simply overwritten with a zero. Consider a fragmented filesystem like ext4 on a 512 Byte physical sector sized disk. File Recovery is pretty much useless when a deleted file's list of blocks cannot be known. If such thing is possible maybe it gives the disk little more life.
+
+### Shredder bits:
+This function identifies all the bits of a file and replaces each one with binary data. This is significantly more thorough than a simple process, but consequently takes more time for the hard drive.
 
 
 # :wrench: Functions
