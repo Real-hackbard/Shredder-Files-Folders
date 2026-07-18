@@ -37,7 +37,7 @@ When deleting a file, the pointer is removed without any changes to the blocks. 
 
 In this case, the optimal buffer size is 4096 KB.
 
-### Bits Overwriting:
+### [Bits Overwriting](https://en.wikipedia.org/wiki/Bit)
 This function identifies all the bits of a file and replaces each one with binary data. This is significantly more thorough than a simple process, but consequently takes more time for the hard drive.
 
 ### Random Overwriting:
