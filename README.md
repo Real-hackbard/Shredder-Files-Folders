@@ -45,7 +45,7 @@ This function uses random number generators (often cryptographic random numbers)
 
 </br>
 
-# :wrench: Functions
+# ⚙️: Functions
 ### Overwriting:
 Unlike simple deletion, which only removes file references, a file shredder replaces the file's data with random bits of information. 
 
